@@ -26,7 +26,7 @@ export default class AllView extends Component {
         let res = 0;
         let text = 0;
         let arbol = 0;
-        for (let i = 1; i <= 3; i++) {
+        for (let i = 1; i <= 5; i++) {
             par = (i%2) ? false : true;
 
             // saltar numeracion
