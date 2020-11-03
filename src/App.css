@@ -55,6 +55,15 @@
   z-index: 999;
 }
 
+.header-pos2 {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 999;
+}
+
 .ficha{
   border-left-style: solid;
   border-left-color: white;
