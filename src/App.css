@@ -46,11 +46,28 @@
   border: 0px solid #000000 !important;
 }
 
-.uno {
+.header-pos {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   margin: 0 auto;
   z-index: 999;
+}
+
+.ficha{
+  border-left-style: solid;
+  border-left-color: white;
+  opacity: 0.6;
+  border-left-width: 7px;
+  font: bold !important;
+  font-family: Forte !important;
+}
+
+.parrafosBold{
+  font: bold !important;
+}
+
+.movermas{
+  padding-left: 80% !important;
 }
