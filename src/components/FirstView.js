@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 import { Carousel } from 'react-bootstrap';
 import Header from './Header';
+import Sidebar from './Sidebar';
 
 export default class FirstView extends Component {
     render() {
         return (
             <React.Fragment>
                 <Header/>
+                <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'}  />
                 <Carousel>
                     <Carousel.Item interval={2000}>
                         <img
