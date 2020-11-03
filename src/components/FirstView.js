@@ -15,21 +15,21 @@ export default class FirstView extends Component {
                         />
                         <Carousel.Caption>
                         <div className="movermasIz">
-                            <h3 className="headerTitle">HELPING WILDLIFE THRIVE BY PLANTING NATIVE TREES IN</h3>
+                            <h3>HELPING WILDLIFE THRIVE BY PLANTING NATIVE TREES IN</h3>
                         </div>
                         <div>
                             <div className="row justify-content-end">
                                 <div className="col-sm-2">
                                     <h2 className="text-center numberFont">502</h2>
-                                    <p className="primer text-center">IN DANGERED SPECIES</p>
+                                    <p className="text-center">IN DANGERED SPECIES</p>
                                 </div>
                                 <div className="col-sm-2">
                                     <h2 className="text-center numberFont">29M</h2>
-                                    <p className="primer text-center">LOST ACRES OF TREES</p>
+                                    <p className="text-center">LOST ACRES OF TREES</p>
                                 </div>
                                 <div className="col-sm-2">
                                     <h2 className="text-center numberFont">120</h2>
-                                    <p className="primer text-center">EXTINCT SPECIES</p>
+                                    <p className="text-center">EXTINCT SPECIES</p>
                                 </div>
                             </div>
                         </div>
@@ -45,9 +45,9 @@ export default class FirstView extends Component {
                         alt="Third slide"
                         />
                         <Carousel.Caption>
-                            <h3 className="text-left headerTitle">FIGHT CLIMATE CHANGE</h3>
+                            <h3 className="text-left">FIGHT CLIMATE CHANGE</h3>
                             <div className="movermasIz">
-                                <p className="ficha parrafosBold text-left pl-1">Climate change is an existential threat. As individuals, we can feel overwhelmed. You can make a difference by planting trees.</p>
+                                <p className="ficha text-left pl-1 font-weight-bold">Climate change is an existential threat. As individuals, we can feel overwhelmed. You can make a difference by planting trees.</p>
                             </div>
                             <div className="row text-left"><button type="button" class="btn btn-success">PLANT A NATIVE TREE</button></div>
                         </Carousel.Caption>
@@ -59,10 +59,10 @@ export default class FirstView extends Component {
                         alt="Third slide"
                         />
                         <Carousel.Caption>
-                            <h3 className="text-right headerTitle">TACKLING THE NATURE CRISIS</h3>
+                            <h3 className="text-right">TACKLING THE NATURE CRISIS</h3>
                             <div className="movermas">
-                                <p className="ficha text-right parrafosBold">By restoring precious habitats & planting new native forest, we extend & create wildlife havens. </p>
-                                <p className="ficha text-right parrafosBold">Boosting biodiversity is a pragmatics and effective strategy to mitigate climate change.</p>
+                                <p className="ficha text-right font-weight-bold">By restoring precious habitats & planting new native forest, we extend & create wildlife havens. </p>
+                                <p className="ficha text-right font-weight-bold">Boosting biodiversity is a pragmatics and effective strategy to mitigate climate change.</p>
                             </div>
                             <div className="row justify-content-end"><button type="button" class="btn btn-success">PLANT A NATIVE TREE</button></div>
                         </Carousel.Caption>

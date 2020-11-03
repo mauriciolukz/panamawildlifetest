@@ -8,10 +8,10 @@ export default class SecondView extends Component {
                 <div class="container h-100">
                     <div class="row justify-content-center h-100">
                         <div class="col justify-content-center align-self-center text-center">
-                            <h1 className="text-left colorHeader">OUR NEW APPROACH</h1>
-                            <p className="fichaverde text-left pl-1">We are appealing to the human love of animals by helping contributors pick a tree to support their preferred jungle animals and our communities.</p>
-                            <p className="fichaverde text-left pl-1">We will be selling native trees starting as low as $16. Each contribution will help plant a tree that will benefit a specific set of animals, enrich the rainforest, and boost </p>
-                            <div className="row text-left pl-5"><button type="button" class="btn colorBotton">VIEW ALL ANIMAL</button></div>
+                            <h1 className="text-left banner-text-title">OUR NEW APPROACH</h1>
+                            <p className="ficha ficha-sucess text-left pl-1 text-italic font-weight-bold">We are appealing to the human love of animals by helping contributors pick a tree to support their preferred jungle animals and our communities.</p>
+                            <p className="ficha ficha-sucess text-left pl-1 text-italic font-weight-bold">We will be selling native trees starting as low as $16. Each contribution will help plant a tree that will benefit a specific set of animals, enrich the rainforest, and boost </p>
+                            <div className="row text-left pl-5"><button type="button" class="btn btn-success-light font-weight-bold">VIEW ALL ANIMAL</button></div>
                         </div>
                         <div class="col align-self-center text-center">
                             <Carousel>

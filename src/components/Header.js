@@ -3,7 +3,7 @@ import { Navbar,Nav } from 'react-bootstrap';
 
 export default function Header() {
     return (
-        <header className="header-pos">
+        <header className="menu">
             <Navbar bg="none" expand="lg" className="pl-5 border-top remove-padding-top-bottom">
                 <Navbar.Brand href="#home"><img className="d-block w-60" src="./img/Leaf Logo White.png" alt="First slide" width='150px' height='50px'/></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

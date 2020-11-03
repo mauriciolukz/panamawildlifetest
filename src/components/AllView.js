@@ -43,7 +43,7 @@ export default class AllView extends Component {
                     <FirstView />
                     <SecondView />
                 </ReactPageScroller>
-                <Pagination className="header-pos2 verticalpagin">
+                <Pagination className="pager-page verticalpagin">
                     {pagesNumbers}
                 </Pagination>
             </React.Fragment>

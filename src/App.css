@@ -37,6 +37,7 @@
   }
 }
 
+/* Bordes redondos al banner */
 .carousel-indicators li {
   width: 10px;
   height: 10px;
@@ -46,7 +47,8 @@
   border: 0px solid #000000 !important;
 }
 
-.header-pos {
+/* Trasparencia y posicionamiento menu superior */
+.menu {
   position: absolute;
   top: 0;
   left: 0;
@@ -55,58 +57,51 @@
   z-index: 999;
 }
 
-.header-pos2 {
+/* Paginador de pagina */
+.pager-page {
   position: absolute;
   top: 30%;
   left: 0;
   right: 0;
   margin: 0 auto;
   z-index: 999;
+  display:inline !important;
+  padding: 10px 10px 10px 0px !important;
+  margin-left: 0px !important;
+  width: 50px !important;
 }
+
+
+/* fichas */
 
 .ficha{
   border-left-style: solid;
+  border-left-width: 7px;
+  font: bold !important;
   border-left-color: white;
-  border-left-width: 7px;
-  font: bold !important;
-  font-family: Forte !important;
-}
-
-.fichaverde{
-  border-left-style: solid;
-  border-left-color: #8CC871;
-  opacity: 0.6;
-  border-left-width: 7px;
-  font: bold !important;
-  font-family: Forte !important;
-}
-
-.colorHeader{
-  color:#8CC871;
-}
-
-.parrafosBold{
-  font: bold !important;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 400;
   font-style: italic;
   font-family: "Noto Serif";
 }
 
-.numberFont{
-font-size: 60px;
-color: #ffffff;
-font-weight: 800;
-font-family: "Spock Pro";
+.ficha-sucess{
+  border-left-color: #8CC871;
+  opacity: 0.6;
 }
 
-.primer{
-font-size: 20px;
-color: #ffffff;
-font-weight: bold;
-font-family: "Spock Pro";
-text-align: center;
+
+
+/* fichas */
+
+/* Tamaño de numeros */
+.numberFont{
+  font-size: 60px;
+  color: #ffffff;
+  font-weight: 800;
+  font-family: "Spock Pro";
 }
+
 
 .movermas{
   padding-left: 60% !important;
@@ -118,11 +113,9 @@ text-align: center;
   
 }
 
-.verticalpagin{
-  display:inline !important;
-  padding: 10px 10px 10px 0px !important;
-  margin-left: 0px !important;
-  width: 50px !important;
+/* Color del titulo secundario en banner */
+.banner-text-title{
+  color:#8CC871;
 }
 
 .page-link {
@@ -138,16 +131,20 @@ text-align: center;
   opacity: 0.6;
 }
 
-.colorBotton {
+/* Color boton secundario */
+.btn-success-light {
   background-color: #8CC871 !important;
   color: white !important;
   font: bold !important;
-
 }
 
-.headerTitle{
-  font-size: 30px;
-  color: #ffffff;
-  font-weight: bold;
-  font-family: "Spock Pro";
+.text-italic{
+  font-size: 18px;
+  line-height: 25px;
+  color: #2a4425;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Noto Serif";
+  text-align: left;
 }
+
