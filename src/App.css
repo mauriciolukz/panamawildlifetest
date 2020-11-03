@@ -83,9 +83,10 @@
 
 .verticalpagin{
   display:inline !important;
-  padding-right: 97% !important;
+  padding: 10px 10px 10px 0px !important;
+  margin-left: 0px !important;
+  width: 50px !important;
 }
-
 
 .page-link {
   position: relative;
