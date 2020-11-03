@@ -57,7 +57,7 @@
 
 .header-pos2 {
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -80,3 +80,23 @@
 .movermas{
   padding-left: 80% !important;
 }
+
+.verticalpagin{
+  display:inline !important;
+  padding-right: 97% !important;
+}
+
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: .5rem .75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: white !important;
+  background-color: black !important;
+  border: none !important;
+  font: bold !important;
+  opacity: 0.6;
+}
+
