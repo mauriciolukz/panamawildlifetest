@@ -162,11 +162,23 @@
   text-align: left;
 }
 
-
 .rightCheck{
     position: fixed !important;
     width: 36px !important;
     height: 30px !important;
     right: 100px !important;
     top: 20px !important;
+}
+
+.floatBotton{
+  position: fixed;
+  width: 40px;
+  height: 30px;
+  right: 36px;
+  top: 100px;
+}
+
+.colorF{
+  color: #000000;
+  background-color: #ffffff;
 }
