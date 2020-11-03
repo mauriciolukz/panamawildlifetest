@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/panamawildlifetest/static/css/main.49b6af43.chunk.css",
+    "main.js": "/panamawildlifetest/static/js/main.343ce242.chunk.js",
+    "main.js.map": "/panamawildlifetest/static/js/main.343ce242.chunk.js.map",
+    "runtime-main.js": "/panamawildlifetest/static/js/runtime-main.739be402.js",
+    "runtime-main.js.map": "/panamawildlifetest/static/js/runtime-main.739be402.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/panamawildlifetest/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.94a60877.chunk.js": "/panamawildlifetest/static/js/2.94a60877.chunk.js",
+    "static/js/2.94a60877.chunk.js.map": "/panamawildlifetest/static/js/2.94a60877.chunk.js.map",
+    "static/js/3.270c1b4e.chunk.js": "/panamawildlifetest/static/js/3.270c1b4e.chunk.js",
+    "static/js/3.270c1b4e.chunk.js.map": "/panamawildlifetest/static/js/3.270c1b4e.chunk.js.map",
+    "index.html": "/panamawildlifetest/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/panamawildlifetest/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.49b6af43.chunk.css.map": "/panamawildlifetest/static/css/main.49b6af43.chunk.css.map",
+    "static/js/2.94a60877.chunk.js.LICENSE.txt": "/panamawildlifetest/static/js/2.94a60877.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/panamawildlifetest/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.739be402.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.94a60877.chunk.js",
+    "static/css/main.49b6af43.chunk.css",
+    "static/js/main.343ce242.chunk.js"
+  ]
+}
