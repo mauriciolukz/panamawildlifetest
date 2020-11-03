@@ -67,18 +67,55 @@
 .ficha{
   border-left-style: solid;
   border-left-color: white;
+  border-left-width: 7px;
+  font: bold !important;
+  font-family: Forte !important;
+}
+
+.fichaverde{
+  border-left-style: solid;
+  border-left-color: #8CC871;
   opacity: 0.6;
   border-left-width: 7px;
   font: bold !important;
   font-family: Forte !important;
 }
 
+.colorHeader{
+  color:#8CC871;
+}
+
 .parrafosBold{
   font: bold !important;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Noto Serif";
+}
+
+.numberFont{
+font-size: 60px;
+color: #ffffff;
+font-weight: 800;
+font-family: "Spock Pro";
+}
+
+.primer{
+font-size: 20px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Spock Pro";
+text-align: center;
 }
 
 .movermas{
-  padding-left: 80% !important;
+  padding-left: 60% !important;
+}
+
+.movermasIz{
+  padding-left: 0% !important;
+  padding-right: 60% !important;
+  
 }
 
 .verticalpagin{
@@ -101,3 +138,16 @@
   opacity: 0.6;
 }
 
+.colorBotton {
+  background-color: #8CC871 !important;
+  color: white !important;
+  font: bold !important;
+
+}
+
+.headerTitle{
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: "Spock Pro";
+}
