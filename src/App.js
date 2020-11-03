@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Banner from './components/Banner';
-import Header from './components/Header';
+import FirstView from './components/FirstView';
+import SecondView from './components/SecondView';
 
 function App() {
   return (
@@ -21,8 +21,8 @@ function App() {
         </a>
       </header> */
       <div>
-        <Header/>
-        <Banner/>
+        <FirstView/>
+        <SecondView/>
       </div>  
     // </div>
   );
