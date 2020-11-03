@@ -9,10 +9,10 @@ export default function Header() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto topnav">
-                        <Nav.Link href="#home" >Guias de actividades</Nav.Link>
+                        {/* <Nav.Link href="#home" >Guias de actividades</Nav.Link>
                         <Nav.Link href="#home">Preguntas frecuentes</Nav.Link>
                         <Nav.Link href="#home">Novedades</Nav.Link>
-                        <Nav.Link href="#home">Contacto</Nav.Link>
+                        <Nav.Link href="#home">Contacto</Nav.Link> */}
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
